@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190850020931",
+    "project_id": "codezilla-1ac3d",
+    "storage_bucket": "codezilla-1ac3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190850020931:android:7769cab13fc18b4366c6f6",
+        "android_client_info": {
+          "package_name": "com.CodeZilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATs_8JC7M1blzpPTkQIwQWTptbEFilWVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

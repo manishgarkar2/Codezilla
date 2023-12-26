@@ -1,0 +1,28 @@
+const fonts = {
+   arial:'arial',
+   PoppinsBlack:"Poppins-Black",
+   PoppinsBold:"Poppins-Bold",
+   PoppinsHeavy:"Poppins-ExtraBold",
+   PoppinsLight:"Poppins-Light",
+   PoppinsMedium:"Poppins-Medium",
+   PoppinsRegular:"Poppins-Regular",
+   PoppinsSemiBold:"Poppins-SemiBold",
+   PoppinsThin:"Poppins-Thin",
+   LexendBlack:"Lexend-Black",
+   LexendBold:"Lexend-Black",
+   LexendExtraBold:"Lexend-ExtraBold",
+   LexendExtraLight:"Lexend-ExtraLight",
+   LexendLight:"Lexend-Light",
+   LexendMedium:"Lexend-Medium",
+   LexendRegular:"Lexend-Regular",
+   LexendSemiBold:"Lexend-SemiBold",
+   LexendThin:"Lexend-Thin",
+   ManropeBold:"Manrope-Bold",
+   ManropeExtraBold:"Manrope-ExtraBold",
+   ManropeExtraLight:"Manrope-ExtraLight",
+   ManropeLight:"Manrope-Light",
+   ManropeMedium:"Manrope-Medium",
+   ManropeRegular:"Manrope-Regular",
+   ManropeSemiBold:"Manrope-SemiBold"
+}
+export default fonts;

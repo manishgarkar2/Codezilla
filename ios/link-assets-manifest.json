@@ -1,0 +1,109 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assects/fonts/Lexend-Black.ttf",
+      "sha1": "e7ce003e94ca32c8be251e4cd3ee6dd7dc3fae28"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-Bold.ttf",
+      "sha1": "1a8d4599190b5057c425db5709a40c7ef03b1202"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-ExtraBold.ttf",
+      "sha1": "dcf210f141cd92d000caaf21be70e2f112fb62c7"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-ExtraLight.ttf",
+      "sha1": "1c1050946981288343107ae1909ea1fdac1799c8"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-Light.ttf",
+      "sha1": "e0feb7da42388b73b224d80aff81ccbcf03f4af1"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-Medium.ttf",
+      "sha1": "6fc08100245a310cae59f5265d8f40f6df11f0ef"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-Regular.ttf",
+      "sha1": "bc33fa22827ac530e6bf64d3b6f412067f200d6f"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-SemiBold.ttf",
+      "sha1": "5091b81d0fce06946a1e29ca2e2c8b8642127386"
+    },
+    {
+      "path": "src/assects/fonts/Lexend-Thin.ttf",
+      "sha1": "5dcb13ee675752bc73ea62d79aac58da8424c1d8"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-Bold.ttf",
+      "sha1": "a6b63c832d12337efb3123f47863f54472c81bf5"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-ExtraBold.ttf",
+      "sha1": "01e9f1ed4df60771240fd42f5ac9dcaf398f110b"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-ExtraLight.ttf",
+      "sha1": "03f11f0309f7f955fe90e3fdf22fee5e60bada4e"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-Light.ttf",
+      "sha1": "67a7446c44660168ed179812753b03390858aa92"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-Medium.ttf",
+      "sha1": "d62e1b2498f65ea5bc20fc5e365d19239527b419"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-Regular.ttf",
+      "sha1": "036b14064c7b90b4b200f2730981effea5e58b15"
+    },
+    {
+      "path": "src/assects/fonts/Manrope-SemiBold.ttf",
+      "sha1": "e423e112f4832916b05308934c10aa84fd14c607"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assects/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assects/fonts/index.js",
+      "sha1": "6b03828d670cf1a4c1e65478cbf409ac7f97c7c9"
+    }
+  ]
+}
